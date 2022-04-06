@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87e2b3a7-c550-4d87-85ef-65be81ea660f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10158.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1652.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16637.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16637.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2116.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2116_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2304.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2304.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2304_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2477.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2477.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2477_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2491.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2491.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2527.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2559.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2559.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2559_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2559_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2563.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2563.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2564.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2628.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2628.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naksi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naksi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br.py" beforeDir="false" afterPath="$PROJECT_DIR$/br.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

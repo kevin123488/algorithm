@@ -163,3 +163,15 @@
 # print(' )  ( \')')
 # print('(  /  )')
 # print(' \\(__)|')
+
+# baek 2884
+# 45분 일찍 알람 설정하기
+time = list(map(int, input().split()))
+al = [time[0], time[1]-45]
+if al[1] < 0:
+    al[0] = al[0]-1
+    al[1] = al[1]+60
+    if al[0] < 0:
+        al[0] = al[0]+24
+
+print(f'{al[0]} {al[1]}')
