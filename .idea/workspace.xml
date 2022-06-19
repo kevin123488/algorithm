@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87e2b3a7-c550-4d87-85ef-65be81ea660f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0410/1753.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0410/1753baek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0410/1753baek2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0412/1356.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0412/1753.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0412/1753baek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0413/1753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/1753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/1753.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/1753bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/ga.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/parc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/prac.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0424/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0425/star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0428/1152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0429/1018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0503/2775.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0503/2775.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0503/4153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0503/4153.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0505/1259.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0505/1259.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0505/2231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0505/2231.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0514/2292.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0514/2292.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0531/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br.py" beforeDir="false" afterPath="$PROJECT_DIR$/br.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon_study/백준 문제풀이/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon_study/백준 문제풀이/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfsbfsprac/2606baek.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfsbfsprac/2819_격자판.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfsbfsprac/4875_미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfsbfsprac/dfsbfs.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
