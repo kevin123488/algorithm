@@ -8,12 +8,12 @@ sys.stdin = open('1181_input.txt')
 T = int(input())
 arr = {}
 for i in range(T):
-    arr[input()] = 1
+    arr[sys.stdin.readline().strip()] = 1
 
 arr_list = []
 for i in arr:
     arr_list.append(i)
-print(arr_list)
+# print(arr_list)
 
 arr_list.sort()
 z = 0
