@@ -8,6 +8,7 @@ def make_tree(a): # 현재 조회중인 노드를 입력
         tree[a] = cnt
         cnt += 1
         make_tree(2*a+1)
+    print(tree)
 
 T = int(input())
 for tc in range(1, T+1):
@@ -25,4 +26,4 @@ for tc in range(1, T+1):
     cnt = 1
     # 이제 트리를 순회하며 조건을 맞춰보자
     make_tree(1)
-    print(tree)
+    print()
