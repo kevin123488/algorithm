@@ -22,7 +22,7 @@ for i in range(t):
     for i in range(1, n + 1):
         if in_degree[i] == 0:
             q.append(i)
-            dp[i] = build_time[i - 1]
+            dp[i] = build_time[i - 1] # 시작점에 대해 건축시간 넣어줌
     
     while q:
         v = q.popleft()
