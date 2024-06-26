@@ -22,7 +22,7 @@ def bfs(n, k, visited):
                 return moved_ans, return_ans
         
         for i in range(3): # 현재 위치에서 이동 가능한 방법은 총 3가지
-            if move_list[i] == 1 and 0 <= now + 1 <= all_length and visited[now + 1] == 0:
+            if move_list[i] == 1 and 0 <= now + 1 < all_length and visited[now + 1] == 0:
                 n_now = now + 1
                 # now_visited_1 = deepcopy(now_visited)
                 now_visited_1 = now_visited[:]
@@ -55,7 +55,7 @@ n, k = map(int, input().split()) # n: 수빈이 위치, k: 동생 위치
 # 5 -> 4 -> 8 -> 16 -> 17
 # 5 -> 10 -> 9 -> 18 -> 17
 
-visited = [0] * (2 * k + 1)
+visited = [0] * (2 * max(n, k) + 1)
 answer_moved, answer_type = bfs(n, k, visited)
 
 
