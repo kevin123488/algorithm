@@ -10,7 +10,7 @@ house = [list(map(int, input().split())) for _ in range(n)] # 각 집을 빨, �
 
 # 시작값 고정하고 만들어보자
 ans = 1000009
-
+    
 for first_color in range(3): # 0 -> 빨, 1 -> 초, 2 -> 파
     dp = [[1000009] * 3 for _ in range(n)]
     dp[0][first_color] = house[0][first_color]
